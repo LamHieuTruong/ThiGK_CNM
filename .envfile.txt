@@ -1,0 +1,7 @@
+User name	Password	Access key ID	Secret access key	Console login link
+lamle280801	hlRa^pDZ'1U}(Ja	AKIAZA6RFRKVNJLOTRGQ	WHQgtFb8xMb70R6LeBj9+HK7fpwKgKweiGbb88gK	https://620524571306.signin.aws.amazon.com/console
+npm init –y				
+npm install express				
+npm install aws-sdk				
+npm install multer				
+npm install ejs				
